@@ -1,0 +1,7 @@
+C:\Users\Дмитрий Маскин\source\repos\XorBackProp\XorBackProp\bin\Debug\XorBackProp.exe.config
+C:\Users\Дмитрий Маскин\source\repos\XorBackProp\XorBackProp\bin\Debug\XorBackProp.exe
+C:\Users\Дмитрий Маскин\source\repos\XorBackProp\XorBackProp\bin\Debug\XorBackProp.pdb
+C:\Users\Дмитрий Маскин\source\repos\XorBackProp\XorBackProp\obj\Debug\XorBackProp.csprojAssemblyReference.cache
+C:\Users\Дмитрий Маскин\source\repos\XorBackProp\XorBackProp\obj\Debug\XorBackProp.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий Маскин\source\repos\XorBackProp\XorBackProp\obj\Debug\XorBackProp.exe
+C:\Users\Дмитрий Маскин\source\repos\XorBackProp\XorBackProp\obj\Debug\XorBackProp.pdb
